@@ -1,7 +1,15 @@
-.headertext { 
- font-family: 'Georgia', Times, Times New Roman, serif;
+
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;;
 }
 
-.redText {
-	color: #FF0000;
+.testParagraph {
+    background-color:#ffffff;
+    padding: 20px 20px 20px 20px;
+    float: right;
+}
+
+body {
+    background: url("../images/dark-triangles.png");
 }

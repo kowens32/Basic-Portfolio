@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"widt",
+				"border-width"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fot-",
+				"font-size"
+			],
+			[
+				"ce",
+				"center\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kimberlyowens/gtcbc/Basic-Portfolio/assets/css/style.css",
+		"/Users/kimberlyowens/gtcbc/Basic-Portfolio/index.html",
+		"/Users/kimberlyowens/Desktop/PREWORK_KEO/Module-8/fanpage.sublime-workspace",
+		"/Users/kimberlyowens/gtcbc/Basic-Portfolio/assets/css/reset.css/meyer.css",
+		"/Users/kimberlyowens/gtcbc/Basic-Portfolio/assets/css/reset.css/:* http:::meyerweb.com:eric:tools:css:reset:",
+		"/Users/kimberlyowens/Desktop/PREWORK_KEO/Module-7/fanpage.html",
+		"/Users/kimberlyowens/Desktop/PREWORK_KEO/Module-9/Style1.css",
+		"/Users/kimberlyowens/Desktop/PREWORK_KEO/Module-10/Javascript.js",
+		"/Users/kimberlyowens/Desktop/PREWORK_KEO/Module-9/Index.html",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/Javascript.js",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/jsindex.html",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/stylejs.css",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/css.style",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/Style1.css",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/Index.html",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/Style.html",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/fanpage.html",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/logic.js",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/WorkingCode/boothedog.html",
+		"/Users/kimberlyowens/Desktop/Broken_and_Working_Code/BrokenCode/logic.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"border",
+			"array",
+			"jumbo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
