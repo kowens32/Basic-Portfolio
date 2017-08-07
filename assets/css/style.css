@@ -2,6 +2,7 @@
 h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;;
+
 }
 
 .testParagraph {
@@ -16,4 +17,17 @@ body {
 
 img {
     align:left;
+}
+
+.logo{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 45px;
+    color: white;
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 50px;
+
+}
+
+.navPanel {
 }
