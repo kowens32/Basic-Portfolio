@@ -13,3 +13,7 @@ h1 {
 body {
     background: url("../images/dark-triangles.png");
 }
+
+img {
+    align:left;
+}
