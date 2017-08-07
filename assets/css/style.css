@@ -9,14 +9,18 @@ h1 {
     background-color:#ffffff;
     padding: 20px 20px 20px 20px;
     float: right;
+    border: solid #dddddd 10px;
+    color: #777777;
 }
 
 body {
     background: url("../images/dark-triangles.png");
+    color: #777777;
 }
 
 img {
-    align:left;
+   float: left;
+    margin: 10px 10px 0 0;
 }
 
 .logo{
@@ -29,5 +33,17 @@ img {
 
 }
 
-.navPanel {
+footer {
+   background-color: #666666;
+    text-align: center;
+    padding:40px 40px 40px 40px;
+    width: 100%;
+}
+
+.hr {
+    color: grey;
+    width: 75%;
+    height: 5px;
+}
+
 }
