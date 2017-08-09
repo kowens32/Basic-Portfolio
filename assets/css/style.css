@@ -15,7 +15,7 @@ h1 {
 }
 
 body {
-    background: url("../images/dark-triangles.png");
+    background: url("../images/cork-wallet.png");
     color: #777777;
     width: 960px;
 }
@@ -49,3 +49,17 @@ footer {
     height: 5px;
 }
 
+.About {
+    border-right: solid;
+    padding: 10px 10px 10px 10px;
+}
+
+.Portfolio {
+    border-right: solid;
+    padding: 10px 10px 10px 10px;
+}
+
+.Contact {
+    border-right: solid;
+    padding: 10px 10px 10px 10px;
+}
