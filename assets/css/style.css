@@ -1,7 +1,8 @@
 
 h1 {
     color: #4aaaa5;
-    font-family: 'Georgia', Times, Times New Roman, serif;;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
 
 
 }
@@ -11,6 +12,7 @@ h1 {
     padding: 20px 20px 20px 20px;
     border: solid #dddddd 10px;
     color: #777777;
+    width: 650px;
     flex: 1;
 }
 
@@ -124,5 +126,6 @@ a:active {
 
 .parent {
     display: flex;
+    padding: 20px 20px 20px 20px;
 
 }
