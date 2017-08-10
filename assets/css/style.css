@@ -3,6 +3,7 @@ h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;;
 
+
 }
 
 .testParagraph {
@@ -26,11 +27,12 @@ img {
 
 .logo{
     font-family: 'Georgia', Times, Times New Roman, serif;
-    font-size: 45px;
+    font-size: 35px;
     color: white;
     background-color: #4aaaa5;
     height: 50px;
     width: 50px;
+    padding: 15px 15px 15px 15px;
 
 }
 
@@ -52,6 +54,7 @@ footer {
 .About {
     border-right: solid;
     padding: 10px 10px 10px 10px;
+
 }
 
 .Portfolio {
@@ -104,8 +107,8 @@ a:active {
 }
 
 .img-thumbnail {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
 
 }
 
@@ -113,4 +116,8 @@ a:active {
     background-color: #4aaaa5;
     font: 20px;
     color: white;
+}
+
+#masthead {
+    background-color: #ffffff;
 }
