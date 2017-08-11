@@ -1,12 +1,25 @@
 
-.mainContent h3 {
+
+body{
+    margin:0 auto;
+    width:960px;
+}
+.mainContent h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    font-weight: 700px;
-    font-size: 40px;
+    font-size: 20px;
 
 
 }
+
+.sidebar h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
+
+}
+
+
 
 .mainContent {
     background-color:#ffffff;
@@ -15,14 +28,17 @@
     color: #777777;
     flex: 1;
     padding: 20px 20px 20px 20px;
+
 }
 
 body {
     background: url("../images/cork-wallet.png");
     color: #777777;
-    width: 960px;
 }
 
+.container{
+    width:960px;
+}
 img {
     float: left;
     margin: 10px 10px 0 0;
@@ -48,6 +64,22 @@ footer {
     text-align: center;
     height: 75px;
 
+}
+
+#exampleName{
+    width: 100%;
+}
+
+#exampleInputEmail1 {
+    width: 100%;
+}
+
+.form-control {
+    width: 100%;
+}
+
+footer p {
+    padding: 30px 0;
 }
 
 .hr {
@@ -129,11 +161,16 @@ a:active {
     color: white;
 }
 
-#masthead {
+.masthead {
     background-color: #ffffff;
 
-
 }
+
+/*.container {*/
+    /*background-color: #ffffff;*/
+    /*width: 100%;*/
+/*}*/
+
 
 .parent {
     display: flex;
