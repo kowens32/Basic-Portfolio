@@ -44,9 +44,6 @@ body{
     width: 650px;
 
 
-
-
-
 }
 
 body {
@@ -78,7 +75,6 @@ img {
 
 
 footer {
-    position: absolute;
     background-color: #666666;
     text-align: center;
     border-top: 10px solid #4aaaa5 ;
@@ -89,6 +85,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
+
 
 
 }
@@ -210,6 +207,8 @@ a:active {
 .parent {
     display: flex;
     padding: 20px 20px 20px 20px;
+    /*border: solid pink;*/
+
 
 }
 
