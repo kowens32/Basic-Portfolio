@@ -20,7 +20,8 @@ body{
 .mainContent h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    font-size: 20px;
+    font-size: 40px;
+
 
 
 }
@@ -28,7 +29,7 @@ body{
 .sidebar h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    font-size: 20px;
+    font-size: 30px;
 
 }
 
@@ -42,6 +43,8 @@ body{
     flex: 1;
     padding: 20px 20px 20px 20px;
     width: 650px;
+
+
 
 
 
@@ -67,7 +70,9 @@ img {
     height: 50px;
     width: 50px;
     padding: 15px 15px 15px 15px;
-    align: bottom;
+    line-height: 130px;
+
+
 
 }
 
@@ -86,8 +91,13 @@ footer {
     bottom: 0;
     left: 0;
 
+
 }
 
+.navPanel {
+    float: right;
+    line-height: 120px;
+}
 
 
 .footerContainer  {
@@ -95,6 +105,7 @@ footer {
     margin: 0 auto;
     width: 100%;
     max-width: 960px;
+
 }
 
 #exampleName{
@@ -216,7 +227,7 @@ a:active {
     bottom: 20px;
     width: 200px;
     color: #ffffff;
-
+    font-family: 'Georgia', Times, Times New Roman, serif;;
     text-align: center;
     font-weight: 300px;
     background-color: #4aaaa5;
