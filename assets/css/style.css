@@ -32,8 +32,9 @@ body{
     font-weight: bold;
 }
 
-
-
+ p, li {
+    font-size: 24px;
+}
 .mainContent {
     background-color:#ffffff;
     margin: 30px;
@@ -43,12 +44,18 @@ body{
     padding: 20px 20px 20px 20px;
     width: 650px;
 
+.mainContent p {
+    font-size: 45px;
+
+}
+
 
 }
 
 body {
     background: url("../images/cork-wallet.png");
     color: white;
+
 }
 
 .container{
@@ -67,8 +74,6 @@ img {
     width: 50px;
     padding: 15px 15px 15px 15px;
     line-height: 130px;
-
-
 
 }
 
